@@ -145,5 +145,5 @@ Some specific things that bit me:
 
 ## About
 
-Built by **Panagiotis Iliopoulos**, sole developer and full stack. First professional client deliverable.
+Built by **Panagiotis Iliopoulos**, sole developer and full stack. Professional client deliverable.
 Design, architecture, backend, frontend, deployment have all been done independently.
